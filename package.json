@@ -1,5 +1,6 @@
 {
   "name": "ember-cli-stencil",
+  "version": "0.0.1",
   "author": "Alex LaFroscia <alex@lafroscia.com>",
   "license": "MIT",
   "private": true,
